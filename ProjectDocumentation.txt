@@ -1,0 +1,2 @@
+1. Install new Laravel application using composer.
+-> composer create-project laravel/laravel gst-billing-system
