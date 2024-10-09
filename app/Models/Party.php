@@ -14,5 +14,5 @@ class Party extends Model
     protected $primaryKey = "id";
 
     // Fillable columns
-    protected $fillable = array("full_name");
+    protected $fillable = array("full_name", "phone_number", "address", "city");
 }
